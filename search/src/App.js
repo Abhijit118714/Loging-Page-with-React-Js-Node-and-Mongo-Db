@@ -6,7 +6,6 @@ import Login from './Login.js'
 import OTP from './OTP_SEND.js';
 
 import Private from './block.js'
-
 function App() {
   
   return (
